@@ -3,7 +3,7 @@ author: [ "SKPlol" ]
 title: "有关VPM镜像站部分包版本号过旧及下载失败的公告"
 description: "影响范围，预计修复时间"
 category: "问题公告"
-date: 1827551680000
+date: 172476847500
 ---
 
 > 本公告所指镜像站地址为 https://vcc.vrczh.org，如无特殊声明，我们将在这里发布未来的镜像站公告
